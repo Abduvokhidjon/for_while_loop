@@ -4,7 +4,6 @@
 //     }
 // }
 
-
 // Homework for nested loop:
 
 // Print this as string or num. your choice:
@@ -13,12 +12,11 @@
 // 333
 // 4444
 // 55555
-var pattern = "";
-for (i = 1; i <= 5; i++) {
-    for (x = 1; x <= i; x++) {
-        pattern += i
-    } 
-    pattern += 
-}
+var numbers = "";
 
-console.log(pattern)
+for (i = 1; i <= 5; i++) {
+  for (x = 1; x <= i; x++) {
+
+  }
+}
+console.log(i);
